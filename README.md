@@ -13,6 +13,9 @@
 ### 23/03/2025
 - More attempt Codewars
 
+### 24/04/2025
+- More attempt Codewars
+
 You can access Codedex in this [link](https://www.codedex.io/home).
 
 Upcoming : Maybe other course may be placed here soon

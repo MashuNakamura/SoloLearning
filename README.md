@@ -1,15 +1,19 @@
 # SoloLearning
 
 ### 19/03/2025
-- Trying Codedex
+- Trying Codedex (Python Begginer)
 
 ### 20/03/2025
 - Changed Repositories name from CodeDex to SoloLearning because because it need to be paid to continue the course :(
 
 ### 21/03/2025
-- Trying Codewars
+- Trying Codewars (Python Training)
+
+### 03/04/2025
+- Trying Codecademy (Go Lang Training)
 
 You can access Course :
 
-[Codedex](https://www.codedex.io/home).
+[Codedex](https://www.codedex.io/home)
 [Codewars](https://www.codewars.com/dashboard)
+[Codecademy](https://www.codecademy.com/learn)

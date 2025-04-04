@@ -1,23 +1,8 @@
 package main
 
-import (
-	"fmt"
-	f "fmt"
-	t "time"
-)
-
-// func main() {
-// 	fmt.Println("Hello World")
-// 	fmt.Println(t.Now())
-// }
+import "fmt"
 
 func main() {
-	// Are we racing or coding?
-	/*	fmt.Println("Ready")
-		fmt.Println("Set") */
-	f.Println("Gooooo!")
-	f.Println(t.DateTime)
-
 	var stationName string
 	var nextTrainTime int8
 	var isUptownTrain bool

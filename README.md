@@ -14,6 +14,9 @@
 ### 03/04/2025
 - Trying Codecademy (Go Lang Training)
 
+### 05/04/2025
+- Trying Go Lang Documentation Tutorial
+
 You can access Course :
 
 [Codedex](https://www.codedex.io/home).

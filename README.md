@@ -22,3 +22,4 @@ You can access Course :
 [Codedex](https://www.codedex.io/home).
 [Codewars](https://www.codewars.com/dashboard).
 [Codecademy](https://www.codecademy.com/learn).
+[Go Lang Doc](https://go.dev/doc/tutorial/getting-started)

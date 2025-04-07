@@ -6,6 +6,8 @@ import (
 	"log"
 )
 
+// Example of Handing Error
+
 func detect_error(name string) (string, error) {
 	if name == "" {
 		return "", errors.New("Empty Name")

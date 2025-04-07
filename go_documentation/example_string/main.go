@@ -4,8 +4,8 @@ import (
 	"strings"
 )
 
+// This file gonna be main of the string message
 func Hello(text []string) string {
-	// Menggabungkan elemen-elemen slice menjadi satu string
 	message := "Hello, " + strings.Join(text, ", ")
 	return message
 }

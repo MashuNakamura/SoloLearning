@@ -24,6 +24,8 @@ func randomFormat() string {
 	return formats[rand.Intn(len(formats))]
 }
 
+// Multiple Random
+
 func Hellos(names []string) (map[string]string, error) {
 	messages := make(map[string]string)
 	for _, name := range names {

@@ -7,6 +7,8 @@ import (
 	"math/rand"
 )
 
+// Random String
+
 func randomFormat() string {
 	formats := []string{
 		"Hi, %v. Welcome!",
